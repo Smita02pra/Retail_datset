@@ -1,6 +1,6 @@
 # Retail_datset
 
-## 📊 Retail Sales Data Analysis (Beginner-Friendly)
+## 📊 Retail Sales Data Analysis 
 
 This project involves cleaning, analyzing, and visualizing a messy retail dataset using **Pandas**, **NumPy**, and **Matplotlib**. It's designed to replicate a real-world data analyst task and is especially suited for students and aspiring data analysts.
 
